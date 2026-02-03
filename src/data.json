@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "kodeMK": "IF101",
+    "namaMK": "Pengantar Teknologi Informasi",
+    "semester": 1,
+    "sks": 3,
+    "kodeKurikulum": "KUR2024",
+    "jenisMK": "Wajib"
+  },
+  {
+    "id": 2,
+    "kodeMK": "IF201",
+    "namaMK": "Pemrograman Dasar",
+    "semester": 2,
+    "sks": 4,
+    "kodeKurikulum": "KUR2024",
+    "jenisMK": "Wajib"
+  },
+  {
+    "id": 3,
+    "kodeMK": "IF301",
+    "namaMK": "Basis Data",
+    "semester": 3,
+    "sks": 3,
+    "kodeKurikulum": "KUR2024",
+    "jenisMK": "Wajib"
+  },
+  {
+    "id": 4,
+    "kodeMK": "IF401",
+    "namaMK": "Sistem Basis Data Lanjutan",
+    "semester": 7,
+    "sks": 3,
+    "kodeKurikulum": "KUR2024",
+    "jenisMK": "Wajib"
+  },
+  {
+    "id": 5,
+    "kodeMK": "IF501",
+    "namaMK": "Kecerdasan Buatan",
+    "semester": 5,
+    "sks": 3,
+    "kodeKurikulum": "KUR2024",
+    "jenisMK": "Pilihan"
+  }
+]
